@@ -92,7 +92,7 @@ with tab_grafik:
 
 with tab_suara:
     st.subheader("Data Pengujian 50 Sampel Suara dan Aturan Keselamatan")
-    st.caption("Menampilkan data pengujian masukan suara dialek lokal, kondisi suara tak jelas, dan deteksi kegawatdaruratan.")
+    st.caption("Menampilkan data pengujian masukan suara sehari-hari, kondisi suara tak jelas, dan deteksi kegawatdaruratan.")
     st.dataframe(df_suara, use_container_width=True, height=500)
 
 with tab_waktu:
