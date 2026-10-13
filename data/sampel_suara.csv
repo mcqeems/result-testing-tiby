@@ -1,51 +1,51 @@
-ID Sampel,Transkrip Suara,Kategori,Hasil Ekstraksi Data,Keputusan Sistem Keselamatan,Penanganan Aman (Fail-Safe),Status Uji
-SMP-01,"“Obatnya sudah saya minum empat butir tadi pagi jam delapan, badan agak lemas tapi aman.”",Normal,"4 butir obat, lemas ringan",Terkendali,Sesuai Aturan,LOLOS
-SMP-02,"“Sudah minum obat merah sama putih empat biji, tidak ada rasa mual sama sekali.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-03,"“Wes tak ombe papat kabeh Mas, rada mumet sithik tapi aman wes mangan.”",Dialek,"4 butir obat, pusing ringan",Terkendali,Sesuai Aturan,LOLOS
-SMP-04,"“Parantos leueut landong opat siki, teu aya keluhan nanaon.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-05,“Obat diminum... (suara bising kendaraan)... mual...”,Bising,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
-SMP-06,"“Saya batuk terus dari semalam, pas tadi ludahnya keluar ada darah segar warna merah.”",Tanda Bahaya,"4 butir obat, batuk berdarah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-07,"“Mata saya kuning sama kulit gatal-gatal, mual parah sampai muntah air berkali-kali.”",Tanda Bahaya,"4 butir obat, mata kuning & muntah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-08,"“Hari ini saya tidak minum obat dulu ya, bosan minum obat tiap hari enek rasanya.”",Menolak Obat,"0 butir obat, niat berhenti",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
-SMP-09,"“Minum tiga biji aja tadi, yang satu jatuh ke selokan.”",Dosis Kurang,"3 butir obat, dosis kurang",Perlu Perhatian,Sesuai Aturan,LOLOS
-SMP-10,"“Kulo mboten ngombe obat dinten niki, weteng mules sanget.”",Menolak Obat,"0 butir obat, sakit perut",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
-SMP-11,"“(Hening panjang 8 detik, hanya helaan nafas pelan)”",Hening,Masukan suara tidak terdeteksi,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
-SMP-12,“Pandangan mata saya agak kabur buram setelah minum obat tadi siang dok.”,Tanda Bahaya,"4 butir obat, pandangan kabur",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-13,"“Kencing saya warnanya merah kemerahan, apa ini bahaya ya?”",Normal,"4 butir obat, urine merah wajar",Terkendali (Edukasi Suara),Sesuai Aturan,LOLOS
-SMP-14,“Ada ruam merah gatal bentol-bentol panas melepuh di seluruh tangan.”,Tanda Bahaya,"4 butir obat, ruam melepuh",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-15,“Obat sudah diminum empat biji teratur jam 7 malam tadi.”,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-16,"“Sesak napas berat sejak tadi malam, dada rasanya seperti ditindih.”",Tanda Bahaya,"4 butir obat, sesak napas berat",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-17,"“Tadi pagi muntah darah dua kali, warnanya merah segar.”",Tanda Bahaya,"4 butir obat, muntah darah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-18,“Demam tinggi menggigil sudah tiga hari tidak turun padahal obat diminum teratur.”,Tanda Bahaya,"4 butir obat, demam tinggi persisten",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-19,“Dada nyeri tajam setiap batuk dan keringat dingin keluar terus.”,Tanda Bahaya,"4 butir obat, nyeri dada",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-20,“Kaki bengkak dan jantung berdebar kencang setelah minum obat tadi.”,Tanda Bahaya,"4 butir obat, bengkak & palpitasi",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-21,“Telinga berdenging keras dan kepala pusing berputar sejak kemarin sore.”,Tanda Bahaya,"4 butir obat, telinga berdenging",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
-SMP-22,"“Capek minum obat terus tiap hari, mulai besok saya berhenti saja.”",Menolak Obat,"0 butir obat, niat berhenti",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
-SMP-23,"“Obatnya bikin mual terus, obat hari ini saya buang saja.”",Menolak Obat,"0 butir obat, membuang obat",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
-SMP-24,"“Badan sudah terasa sehat, buat apa minum obat lagi.”",Menolak Obat,"0 butir obat, merasa sembuh",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
-SMP-25,“(suara angin kencang)... sudah minum... empat...”,Bising,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
-SMP-26,“(latar suara anak menangis)... obat... mual...”,Bising,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
-SMP-27,“(rekaman terputus di tengah kalimat)”,Terputus,Masukan suara tidak terdeteksi,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
-SMP-28,"“Empat butir sudah diminum pagi ini jam tujuh, tidak ada keluhan.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-29,"“Obat diminum empat biji setelah sarapan, badan segar.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-30,"“Wes ngombe obat papat mau esuk, awak sehat.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-31,"“Atos nginum obat opat siki tadi enjing, teu aya keluhan.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-32,"“Minum empat butir jam delapan malam, agak ngantuk setelahnya tapi tidak apa-apa.”",Normal,"4 butir obat, kantuk ringan",Terkendali,Sesuai Aturan,LOLOS
-SMP-33,"“Sudah minum obatnya empat, perut sedikit mual tapi hilang sendiri.”",Normal,"4 butir obat, mual ringan hilang",Terkendali,Sesuai Aturan,LOLOS
-SMP-34,"“Empat biji diminum, tidak lupa seperti kemarin.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-35,"“Tiga butir diminum, satu butir jatuh tapi langsung diganti yang baru.”",Dosis Kurang,"4 butir obat (1 diganti), tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-36,"“Obat empat butir sudah masuk, badan agak lemas tapi masih bisa aktivitas.”",Normal,"4 butir obat, lemas ringan",Terkendali,Sesuai Aturan,LOLOS
-SMP-37,"“Minum obat empat biji tadi siang, tidak ada rasa aneh-aneh.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-38,"“Kemarin lupa satu kali minum, hari ini sudah minum empat butir lengkap.”",Lupa Dosis,"4 butir obat hari ini, riwayat lupa 1x",Perlu Perhatian,Sesuai Aturan,LOLOS
-SMP-39,"“Wis tak ombe kabeh patang biji, ora ana keluhan.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-40,"“Tadi pagi minum empat butir, sempat pusing sedikit tapi sekarang sudah hilang total.”",Normal,"4 butir obat, pusing sesaat",Perlu Perhatian,Sesuai Aturan,GAGAL
-SMP-41,“Empat butir diminum jam enam pagi sebelum berangkat kerja.”,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-42,"“Sudah minum obat empat, nafsu makan baik hari ini.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-43,"“Parantos diinum sadayana obatna, awak karasaeun enteng.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-44,"“Minum empat biji, tenggorokan agak kering tapi minum air langsung hilang.”",Normal,"4 butir obat, keluhan ringan hilang",Terkendali,Sesuai Aturan,LOLOS
-SMP-45,"“Obatnya sudah diminum semua empat butir, tidak mual sama sekali.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-46,"“Tadi minum tiga butir dulu, satu butir menyusul setengah jam kemudian.”",Dosis Bertahap,"4 butir obat (bertahap), tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-47,"“Empat butir habis diminum, badan terasa lebih enakan dari kemarin.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-48,"“Kulo sampun ngombe obat sekawan, mboten wonten keluhan.”",Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-49,"“Minum obat empat butir malam ini, besok kontrol ke faskes.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
-SMP-50,"“Obat empat butir diminum teratur, tidak ada keluhan berarti minggu ini.”",Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+ID Sampel,Transkrip Suara,Ragam Bahasa,Kategori,Hasil Ekstraksi Data,Keputusan Sistem Keselamatan,Penanganan Aman (Fail-Safe),Status Uji
+SMP-01,"“Obatnya sudah saya minum empat butir tadi pagi jam delapan, badan agak lemas tapi aman.”",Baku,Normal,"4 butir obat, lemas ringan",Terkendali,Sesuai Aturan,LOLOS
+SMP-02,"“Sudah minum obat merah sama putih empat biji, tidak ada rasa mual sama sekali.”",Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-03,"“Sudah saya minum empat semuanya Mas, agak pusing sedikit tapi aman sudah makan.”",Biasa,Dialek,"4 butir obat, pusing ringan",Terkendali,Sesuai Aturan,LOLOS
+SMP-04,"“Sudah diminum semuanya empat butir, tidak ada keluhan apa-apa.”",Biasa,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-05,“(berbisik sangat pelan) obat... sudah... diminum...”,Biasa,Tidak Jelas,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
+SMP-06,"“Saya batuk terus dari semalam, pas tadi ludahnya keluar ada darah segar warna merah.”",Biasa,Tanda Bahaya,"4 butir obat, batuk berdarah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-07,"“Mata saya kuning sama kulit gatal-gatal, mual parah sampai muntah air berkali-kali.”",Biasa,Tanda Bahaya,"4 butir obat, mata kuning & muntah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-08,"“Hari ini saya tidak minum obat dulu ya, bosan minum obat tiap hari enek rasanya.”",Gaul,Menolak Obat,"0 butir obat, niat berhenti",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
+SMP-09,"“Minum tiga biji aja tadi, yang satu jatuh ke selokan.”",Gaul,Dosis Kurang,"3 butir obat, dosis kurang",Perlu Perhatian,Sesuai Aturan,LOLOS
+SMP-10,"“Saya tidak minum obat hari ini, perut mulas sekali.”",Biasa,Menolak Obat,"0 butir obat, sakit perut",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
+SMP-11,"“(Hening panjang 8 detik, hanya helaan nafas pelan)”",Biasa,Hening,Masukan suara tidak terdeteksi,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
+SMP-12,“Pandangan mata saya agak kabur buram setelah minum obat tadi siang dok.”,Formal,Tanda Bahaya,"4 butir obat, pandangan kabur",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-13,"“Kencing saya warnanya merah kemerahan, apa ini bahaya ya?”",Biasa,Normal,"4 butir obat, urine merah wajar",Terkendali (Edukasi Suara),Sesuai Aturan,LOLOS
+SMP-14,“Ada ruam merah gatal bentol-bentol panas melepuh di seluruh tangan.”,Biasa,Tanda Bahaya,"4 butir obat, ruam melepuh",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-15,“Obat sudah diminum empat biji teratur jam 7 malam tadi.”,Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-16,"“Sesak napas berat sejak tadi malam, dada rasanya seperti ditindih.”",Baku,Tanda Bahaya,"4 butir obat, sesak napas berat",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-17,"“Tadi pagi muntah darah dua kali, warnanya merah segar.”",Biasa,Tanda Bahaya,"4 butir obat, muntah darah",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-18,“Demam tinggi menggigil sudah tiga hari tidak turun padahal obat diminum teratur.”,Baku,Tanda Bahaya,"4 butir obat, demam tinggi persisten",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-19,“Dada nyeri tajam setiap batuk dan keringat dingin keluar terus.”,Baku,Tanda Bahaya,"4 butir obat, nyeri dada",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-20,“Kaki bengkak dan jantung berdebar kencang setelah minum obat tadi.”,Baku,Tanda Bahaya,"4 butir obat, bengkak & palpitasi",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-21,“Telinga berdenging keras dan kepala pusing berputar sejak kemarin sore.”,Baku,Tanda Bahaya,"4 butir obat, telinga berdenging",Segera ke Faskes,Sesuai Aturan (Tiket Dibuka),LOLOS
+SMP-22,"“Capek minum obat terus tiap hari, mulai besok saya berhenti saja.”",Gaul,Menolak Obat,"0 butir obat, niat berhenti",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
+SMP-23,"“Obatnya bikin mual terus, obat hari ini saya buang saja.”",Gaul,Menolak Obat,"0 butir obat, membuang obat",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
+SMP-24,"“Badan sudah terasa sehat, buat apa minum obat lagi.”",Gaul,Menolak Obat,"0 butir obat, merasa sembuh",Perlu Perhatian,Sesuai Aturan (Eskalasi Notifikasi),LOLOS
+SMP-25,“(bergumam tidak jelas) empat... mual...”,Biasa,Tidak Jelas,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
+SMP-26,“Sudah minum em— (terputus)”,Biasa,Tidak Jelas,Tingkat keyakinan rendah,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
+SMP-27,“(rekaman terputus di tengah kalimat)”,Biasa,Terputus,Masukan suara tidak terdeteksi,Perlu Perhatian,Aktif (Naik Derajat Waspada),LOLOS
+SMP-28,"“Empat butir sudah diminum pagi ini jam tujuh, tidak ada keluhan.”",Baku,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-29,"“Obat diminum empat biji setelah sarapan, badan segar.”",Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-30,"“Sudah minum obat empat tadi pagi, badan sehat.”",Biasa,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-31,"“Sudah minum obat empat butir tadi pagi, tidak ada keluhan.”",Baku,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-32,"“Minum empat butir jam delapan malam, agak ngantuk setelahnya tapi tidak apa-apa.”",Biasa,Normal,"4 butir obat, kantuk ringan",Terkendali,Sesuai Aturan,LOLOS
+SMP-33,"“Sudah minum obatnya empat, perut sedikit mual tapi hilang sendiri.”",Biasa,Normal,"4 butir obat, mual ringan hilang",Terkendali,Sesuai Aturan,LOLOS
+SMP-34,"“Empat biji diminum, tidak lupa seperti kemarin.”",Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-35,"“Tiga butir diminum, satu butir jatuh tapi langsung diganti yang baru.”",Baku,Dosis Kurang,"4 butir obat (1 diganti), tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-36,"“Obat empat butir sudah masuk, badan agak lemas tapi masih bisa aktivitas.”",Biasa,Normal,"4 butir obat, lemas ringan",Terkendali,Sesuai Aturan,LOLOS
+SMP-37,"“Minum obat empat biji tadi siang, tidak ada rasa aneh-aneh.”",Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-38,"“Kemarin lupa satu kali minum, hari ini sudah minum empat butir lengkap.”",Biasa,Lupa Dosis,"4 butir obat hari ini, riwayat lupa 1x",Perlu Perhatian,Sesuai Aturan,LOLOS
+SMP-39,"“Sudah saya minum semua empat butir, tidak ada keluhan.”",Biasa,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-40,"“Tadi pagi minum empat butir, sempat pusing sedikit tapi sekarang sudah hilang total.”",Biasa,Normal,"4 butir obat, pusing sesaat",Perlu Perhatian,Sesuai Aturan,GAGAL
+SMP-41,“Empat butir diminum jam enam pagi sebelum berangkat kerja.”,Baku,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-42,"“Sudah minum obat empat, nafsu makan baik hari ini.”",Biasa,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-43,"“Sudah diminum semua obatnya, badan terasa ringan.”",Biasa,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-44,"“Minum empat biji, tenggorokan agak kering tapi minum air langsung hilang.”",Gaul,Normal,"4 butir obat, keluhan ringan hilang",Terkendali,Sesuai Aturan,LOLOS
+SMP-45,"“Obatnya sudah diminum semua empat butir, tidak mual sama sekali.”",Biasa,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-46,"“Tadi minum tiga butir dulu, satu butir menyusul setengah jam kemudian.”",Baku,Dosis Bertahap,"4 butir obat (bertahap), tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-47,"“Empat butir habis diminum, badan terasa lebih enakan dari kemarin.”",Gaul,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-48,"“Saya sudah minum obat empat butir, tidak ada keluhan.”",Baku,Dialek,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-49,"“Minum obat empat butir malam ini, besok kontrol ke faskes.”",Biasa,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
+SMP-50,"“Obat empat butir diminum teratur, tidak ada keluhan berarti minggu ini.”",Baku,Normal,"4 butir obat, tanpa keluhan",Terkendali,Sesuai Aturan,LOLOS
