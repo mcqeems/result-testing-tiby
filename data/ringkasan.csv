@@ -1,0 +1,11 @@
+Metrik,Nilai
+Total sampel suara sintetis (n),50
+Kasus tanda bahaya sebenarnya,10 → terdeteksi 10/10 (100%)
+Kasus kritis (bahaya & menolak minum obat),15 → terdeteksi 15/15 (100%)
+Akurasi keselamatan sistem,"49/50 (98,0%)"
+Sampel GAGAL,SMP-40 (false alarm: kasus normal diklasifikasikan Perlu Perhatian)
+Penanganan aman pada suara kurang jelas,5/5 (100%) dinaikkan ke tingkat waspada
+Partisipan uji (N),"6 (2 Pasien, 1 PMO, 1 Petugas Faskes, 2 Anggota Keluarga)"
+Keberhasilan tugas,100% (16/16)
+Rata-rata durasi,"T1 28,0 dtk – T2 39,0 dtk – T3 19,0 dtk – T4 24,0 dtk – T5 52,0 dtk"
+Skor UEQ-S,"Pragmatis +1,92 – Hedonis +1,75 – Agregat +1,84 (Sangat Baik)"
